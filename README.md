@@ -80,8 +80,8 @@ The project requires the following R packages:
 ## Contact
 
 For questions or feedback, please contact:
-- **Author**: Your Name
-- **Email**: youremail@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Author**: Juan Diego López Rodríguez
+- **Email**: jdlr@alumni.upenn.edu
+- **GitHub**: [https://github.com/jdlr9]
 
 Thank you for exploring the impact of "Solo 3 de 20"!
